@@ -1,0 +1,78 @@
+.head{
+	color: #2E6DA4;
+
+}
+
+.container{
+	border : 2px solid #2E6DA4;
+}
+
+body{
+	margin: 30px 0px 60px 0;
+	color: #6f6f6f
+}
+
+.head{
+	border-bottom: 2px solid #2E6DA4;
+	
+}
+
+.main_form{
+	padding: 20px 10px;
+}
+
+textarea{
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+.submit_btn{
+	background-color: #2E6DA4;
+	float: right;
+	color: white;
+}
+
+label ,li,p{
+	color: #2E6DA4;
+
+}
+
+.sub_label{
+	color: #6f6f6f;
+	font-size: 16px;
+}
+
+
+label ,li{
+	font-size: 20px;
+}
+
+.portion_heading{
+	
+	width: 30%;
+	border-bottom: 1px solid #6f6f6f;
+	padding-bottom: 10px;
+}
+
+.gender{
+	border: 2px solid #2e6da4;
+	background-color: #2e6da4;
+
+}
+
+.interest{
+	font-size: 18px;
+}
+
+section .register{
+	background-color: #2E6DA4;
+	float: right;
+	color: white;
+}
+
+.button2 {
+    background-color: white; 
+    color: #2E6DA4; 
+    border: 2px solid #2E6DA4;
+}
